@@ -9,7 +9,10 @@ RDF:
 有一个triple,includes
 Subject(Resources itself)  
 Predicate(relations)  
+Object(a things that subject is related)  
 ![image](https://user-images.githubusercontent.com/83968454/208162491-a1e97c04-51ed-4a3c-be60-dcbd61b86ca8.png)  
 
-Object(a things that subject is related)  
-Ontology can describe concepts and relationships between entities.
+The interplay between this classic reasoning approach with well-established Web languages such as RDF and OWL as well as other W3C standards has turned out to be one of the most fruitful research topics in this field.   
+
+
+Ontology can describe concepts and relationships between entities.  
